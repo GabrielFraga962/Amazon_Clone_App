@@ -1,4 +1,4 @@
-# Amazon Clone
+# Amazon Clone 🛒 🧺
 ![Template Screenshot](TemplateScreenshot.jpg?raw=true "Template Screenshot")
 
 ---
